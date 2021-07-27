@@ -1,7 +1,6 @@
 import { LineStyle } from '../renderers/draw-line';
 import { GridPaneView } from '../views/pane/grid-pane-view';
 import { IUpdatablePaneView } from '../views/pane/iupdatable-pane-view';
-
 import { Pane } from './pane';
 
 /** Structure describing horizontal or vertical grid line options */
